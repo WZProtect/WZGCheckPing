@@ -1,9 +1,18 @@
+/*
+How to use
+
+put 
 
 
+if(WZGCheckPing() == FALSE)
+{
+exit(0);
+}
 
+in loop game for loop check internet
 
-
-
+@WZGuard
+*/
 
 BOOL WZGCheckPing()
 {
